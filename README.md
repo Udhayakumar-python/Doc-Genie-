@@ -7,6 +7,7 @@ Core Technologies
 ·       Regular Expressions: Pattern matching for code analysis
 ·       Google Colab: Cloud-based development and deployment environment
 ·       HTML5/CSS3: Modern web standards for interface styling
+https://drive.google.com/file/d/1kKVrhQTVnq3WI_Vv7i4ejVoUWmYCpsp9/view?usp=sharing
 
  
 
