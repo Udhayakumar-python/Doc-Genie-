@@ -9,3 +9,4 @@ Core Technologies
 ·       Google Colab: Cloud-based development and deployment environment
 ·       HTML5/CSS3: Modern web standards for interface styling
  
+ 
